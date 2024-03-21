@@ -1,0 +1,6 @@
+project_name = "my-project-417822"
+service_account_id = "gke_cluster"
+service_account_display_name = "Service Account GKE"
+cluster_name = "tf-gke-cluster"
+region = "us-central1"
+zone = "us-central1-c"
